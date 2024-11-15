@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Download the github release
 
-Downlad it [here](https://github.com/CeriumDevelopment/CeriumBot/releases/).
+Download it [here](https://github.com/CeriumDevelopment/CeriumBot/releases/).
 
 ### 2. Install Dependencies in the project folder
 ```bash
