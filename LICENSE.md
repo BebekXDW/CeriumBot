@@ -1,4 +1,4 @@
-Non-Commercial License v1.0
+Non-Commercial License v1.1
 
 Copyright (c) 2024 Cerium
 
