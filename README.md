@@ -23,7 +23,7 @@ Before you begin, ensure you have the following installed:
 
 ### 1. Download the github release
 
-Downlad it [here](https://github.com/BebekXDW/CeriumBot/releases/).
+Downlad it [here](https://github.com/CeriumDevelopment/CeriumBot/releases/).
 
 ### 2. Install Dependencies in the project folder
 ```bash
@@ -75,7 +75,7 @@ node index.js
 Feel free to submit issues or pull requests to improve the project.
 
 ## License
-This project is licensed under [(Licence link)](https://github.com/BebekXDW/CeriumBot/blob/main/LICENSE.md).
+This project is licensed under [(Licence link)](https://github.com/CeriumDevelopment/CeriumBot/blob/main/LICENSE.md).
 
 ## Support
 For questions or support, please reach out to us on [Discord](https://discord.gg/Gwnx87jgBv).
