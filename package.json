@@ -1,0 +1,19 @@
+{
+  "name": "ceriumbot",
+  "version": "1.0.0",
+  "description": "the best all-in-one discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bebek.xdw",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "mysql2": "^3.11.3",
+    "node": "^23.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.13.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "clientId": "YOUR_DISCORD_CLIENT_ID",
+  
+    "host": "YOUR_SQL_HOST",
+    "user": "YOUR_USER",
+    "password": "YOUR_PASSWORD",
+    "database": "YOUR_DB_NAME"
+}
